@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  cursor: default;
+}
+
+*:focus {
+  outline: none;
+}
